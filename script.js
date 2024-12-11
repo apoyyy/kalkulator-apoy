@@ -83,5 +83,5 @@ equalsButton.addEventListener('click', function() {
 });
 
 function printILY(){
-  document.getElementById("output-value").innerText="Semangat menjalani hari-hari yaaaa!🌷  Mungkin saat ini kamu bisa ngerasa kurang cocok dengan anak-anak tapi bisa jadi suatu hari nanti kamu kangen. Have a nice dayyy! selamat hari jumat buat kamu yang paling lucu ilysb🎀🎀🎀" ;
+  document.getElementById("output-value").innerText="AMELLLL LUCUUUUU BGT PAS MAKAN, MAKAN YANG BANYAKK!! ILOVE U SO BADDD🎀🎀🎀" ;
 }
